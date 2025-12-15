@@ -1,0 +1,93 @@
+.r1
+{
+    width:600px;
+    border: solid 3px;
+    margin: auto;
+    border-radius: 15px;
+    background:linear-gradient(violet,tan)
+}
+.r2
+{
+    width: 500;
+    margin-left: 80px;
+    display: flex;
+    margin: auto;
+    padding:8px;
+}
+.r3
+{
+    margin: auto;
+    width: 500px;
+    border: solid 2px black;
+    display: flex;
+    border-radius: 8px;
+    padding: 5px;
+}
+.info
+{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin:auto;
+    padding: 15px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+img{
+    height: 130px;
+    width: 120px;
+    
+}
+h3{
+    margin-left: 15px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+h4
+{
+    margin-left: 15px;
+}
+.r4
+{
+    width: 550px;
+    margin:auto;
+    background:linear-gradient(rgb(224, 116, 134),rgb(201, 74, 142));
+    border: solid 3px;
+    border-radius: 5px;
+    padding:8px;
+}
+.amount
+{
+    padding-left:450px;
+}
+
+hr{
+    align-self: auto;
+    width: 550;
+}
+h2
+{
+    margin-left: 15px;
+}
+
+
+.quotes{
+    margin:auto;
+    background:linear-gradient(rgb(251, 44, 227),rgb(203, 158, 243),rgb(135, 147, 182));
+    padding: 2px;
+    border-radius: 2px;
+    border-left: solid 3px black;
+    text-align: center;
+    width:500px;
+}
+.r3 img
+{
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid darkblue
+}
+p{
+    padding-left: 19px;
+}
